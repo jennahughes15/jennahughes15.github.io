@@ -40,5 +40,7 @@
     <p style="text-align: left;">Link to my blog post: <a href="https://wordpress.com/view/hughesjecsc426.home.blog">https://wordpress.com/view/hughesjecsc426.home.blog</a></p>
     <p>Link to my GitHub Profile: <a href="https://github.com/jennahughes15">https://github.com/jennahughes15</a></p>
     <p>Link to my resume: <span style="color: #0000ac;">https://drive.google.com/file/d/1pWhnKJsxCP8IXVfF7f7NPLQJNxPKyxyd/view?usp=sharing</span></p>
+    <button formaction="Change text to white" type="button" name="Click Me">Click
+      Me!</button><br>
   </body>
 </html>
