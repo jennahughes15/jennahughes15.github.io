@@ -24,7 +24,7 @@ body{
 	font: 130%/1.3 TrebuchetMS,Arial,sans-serif;  /* Default fonts */
 	text-align: left; /* Alignment of the text */
 	color: black; /* Main text color */
-	background: yellow; /* Main text background color */
+	background: light blue; /* Main text background color */
 	padding-bottom: 20px; /* You can set padding or margin for one side of an element at a time */
 }
 
@@ -59,7 +59,7 @@ div.section {
 	background: #f2f2f2; /* Change the color to looks like Berea Background */
 	color: black;
 	font: 'Source Sans Pro',Arial, Sans-Serif;
-	background-image: none;  /* replace none with url('image-url') to set a background image  */
+	background-image: ('https://lh3.googleusercontent.com/Szp4hO-hLpNmDp3hNBE-UShGvmTZHHuGz2gZzchzyvdFDWGcH4ZJPzPsR735HcSq71btKlb-QC4OpVrpldgk8eC-pCgVUQ-2k6CjezXgy0_jNnHM22edsl-sAPFx6Vvz1Ep-oknsDrjP43vr-cvYlU-FElRAMv6Es6BGShGIYnFh3SajCt7_XIePNbDmR0WDUf-EnfOm6rEJz4KoPbY-dhCt2tsyU-llDAcAeiXqVFYa2gu0xtSZFCSl3Tol3F4_AJsc0J6D00GMlaNkecK3eudT-PaAWUgRYCDooda8DcVWdEBbUkZZrffNTIeaq1DdwrZJdTjJecwlwesMLefQEGRuVjve5FD3fsxyJNbk0SwiwmGgEc_2ed57zNNuHD-s6OOwDEUKBQmKM9EGIRUm53hcpTiY0uaBOFqg6DczObtKbvcwCJenT8Sm4zJuIXvXTyi1Qrfj1FyRlmuar8iOCPZxDM_fg6WKGiZihv8s8z627ZZsAmoIqWzCAC6Dnn_Y9K5PxLyzfPIQiItWN9QfplsWTMBu7FvQz4kUXrNtUQqRuDB_GZBdtwrENYVnfTWpOt0rjiuITxpAqGQUyg7YmJ0tfJznYBx5bSoR9qcYMJYtHO9oxo7Zlfvvvttf71c2Cp1E888TTO9izL4rNdixPZGac0XBbTgal8wUAX9EAVPudLBRUbcmxM8=w1024-h576-no');  /* replace none with url('image-url') to set a background image  */
 }
 
 /* You can alter the links within a div with the following syntax */
